@@ -1,0 +1,47 @@
+export const ProjectData=[
+    {
+        id:1,
+        title:"Portfolio Design",
+        about: "Created a visually appealing and responsive portfolio website using HTML and CSS. The design showcases my skills, projects, and contact information in an organized and aesthetically pleasing manner. Through carefully crafted layouts and styles, the portfolio effectively represents my identity and work. ",
+        tags:["HTML",  "CSS" , ],
+        demo:"https://mdj-port.netlify.app/",
+        github:"https://github.com/jaydeej251/p1-portfolio",
+        image:"https://github.com/jaydeej251/p1-portfolio/blob/master/AppImage/Capture.PNG?raw=true",
+    },
+    {
+        id:1,
+        title:"Naughty Dawg",
+        about: "Developed an exciting and engaging endless runner game named Naught Dawg. This JavaScript-based game challenges players to control a character navigating obstacles and collecting rewards. With a blend of JavaScript logic and CSS/HTML visuals, players can enjoy an immersive and fast-paced gaming experience.",
+        tags:[ "Javascript","HTML","CSS"],
+        demo:"https://naughtydog-mdj-port.netlify.app/",
+        github:"https://github.com/jaydeej251/p2-JSgame",
+        image:"https://github.com/jaydeej251/p2-JSgame/blob/main/AppImage/Capture.PNG?raw=true"
+    },
+    {
+        id:1,
+        title:"Weather App",
+        about: " Designed a weather application that provides real-time weather information. Leveraging the MERN stack, the backend utilizes Mongoose, Express, and Node.js to fetch and process weather data from an API. The intuitive user interface, built with React, presents users with current conditions, forecasts, and location-based weather insights.",
+        tags:["Mongoose", "Express", "ReactJS","NodeJS", "JavaScript" ],
+        demo:"https://dj-weatherapp.netlify.app/",
+        github:"https://github.com/jaydeej251/p3-react",
+        image:"https://github.com/jaydeej251/p3-react/blob/main/AppImage/Appimage.png?raw=true",
+    },
+    {
+        id:1,
+        title:"Blog App (Solo Project)",
+        about: " Created a comprehensive blog application that encompasses both frontend and backend development. Using the MERN stack, the application features user authentication, allowing authors to create, edit, and delete blog posts. Leveraging MongoDB for data storage, Express for server handling, React for frontend interactions, and Node.js for backend logic, the app offers a seamless experience for bloggers and readers alike.",
+        tags:["Mongoose", "Express", "ReactJS","NodeJS", "JavaScript" ],
+        demo:"https://dj-weatherapp.netlify.app/",
+        github:"https://github.com/jaydeej251/solo-mern",
+        image:"https://github.com/jaydeej251/solo-mern/blob/main/AppImage.PNG?raw=true",
+    },
+    {
+        id:1,
+        title:"Blog-App (Team Project)",
+        about: "Crafted collaboratively by a dedicated team, our blog application is a testament to the power of MERN stack technology. Seamlessly integrating MongoDB for data storage, Express for server handling, React for dynamic frontend interactions, and Node.js for robust backend logic, this application is a testament to the strength of teamwork. With user authentication in place, authors enjoy the freedom to compose, edit, and remove blog posts, while readers immerse themselves in a user-friendly platform. Welcome to a realm where innovation and collaboration converge.",
+        tags:["Mongoose", "Express", "ReactJS","NodeJS", "JavaScript" ],
+        demo:"https://dj-weatherapp.netlify.app/",
+        github:"N/A",
+        image:"N/A",
+    },
+];
